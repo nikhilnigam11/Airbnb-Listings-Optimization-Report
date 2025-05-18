@@ -11,13 +11,13 @@ Key Insights:
   - Minimum 6 images ensure at least 1 booking/month.
 
 🛠️ Tools & Technologies
-    Languages: Python
-    Libraries: Pandas, NumPy, Matplotlib, Seaborn
-    Visualization: Tableau
-    Data Sources: Airbnb 
+    - Languages: Python
+    - Libraries: Pandas, NumPy, Matplotlib, Seaborn
+    - Visualization: Tableau
+    - Data Sources: Airbnb 
 
 🔍 Key Findings
-  Open Listings:
+  -- Open Listings:
     - Listings with 0–5 images had the highest unfilled rates (~30%).
     - 6–15 images had the lowest open listings (highest bookings).
 
